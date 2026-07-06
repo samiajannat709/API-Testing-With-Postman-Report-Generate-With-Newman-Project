@@ -58,11 +58,11 @@ Report_generate_with_newman/
 
 ### Postman Collection
 
-![Postman Collection](images/collection.png)
+![Postman Collection](Report_generate_with_newman/images/collection.png)
 
 ### Newman Report
 
-![Newman Report](images/report.png)
+![Newman Report](Report_generate_with_newman/images/report.png)
 
 ## 📊 Newman Test Report Summary
 
